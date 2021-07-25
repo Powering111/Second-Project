@@ -1,0 +1,13 @@
+<resources>
+    <string name="strBtn1">확인</string>
+    <string name="strBtn2">나이스</string>
+    <string name="strRadio1">1번을 체크하자!</string>
+    <string name="strRadio2">2번을 체크합시다!</string>
+    <string name="result"></string>
+    <string name="app_name">앱 이름입니다.</string>
+    <string name="easteregg">이스터에그입니다.</string>
+    <string name="easteregg2">작성</string>
+    <string name="easteregg3">이스터에그 발견 성공! 축하합니다.</string>
+    <string name="easteregg4">땡</string>
+    <string name="easteregg5">이스터에그</string>
+</resources>
